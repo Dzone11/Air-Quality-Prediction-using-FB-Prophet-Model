@@ -97,7 +97,5 @@ References
 
 : https://archive.ics.uci.edu/ml/datasets/Air+Quality
 : https://facebook.github.io/prophet/
-: https://i.imgur.com/8QZl9nB.png
-: https://i.imgur.com/9qyYzXO.png
 
 ![image](https://github.com/Dzone11/Air-Quality-Prediction-using-FB-Prophet-Model/assets/90634803/751a9ed5-41b6-423a-97e8-c37d215f236f)
